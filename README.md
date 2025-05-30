@@ -1,0 +1,1 @@
+This was a project made for Game Design Mastery in Full Sail University. Me and 2 teammates with little UE experience made this project. There is room for improvement but I won't change as a testament to how far I've come when you look at other projects.
